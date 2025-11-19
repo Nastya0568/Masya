@@ -1,61 +1,53 @@
-{\rtf1\ansi\ansicpg1251\cocoartf2822
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+body {
+  min-width: 850px;
+}
 
-\f0\fs24 \cf0 body \{\
-  min-width: 850px;\
-\}\
-\
-h1 \{\
-  margin-top: 0;\
-  margin-bottom: 10px;\
-  padding-top: 45px;\
-  color: grey;\
-  font-family: William, serif;\
-  font-weight: normal;\
-  font-size: 31px;\
-  text-transform: uppercase;\
-\}\
-\
-h2 \{\
-  margin-top: 0;\
-  color: grey;\
-  font-family: Inter, sans-serif;\
-  font-size: 22px;\
-  font-style: italic;\
-  text-transform: uppercase;\
-\}\
-\
-p \{\
-  margin-top: 0;\
-  margin-bottom: 0;\
-  font-family: Inter, sans-serif;\
-  text-align: center;\
-\}\
-\
-img \{\
-  width: 310px;\
-  margin-bottom: 40px;\
-\}\
-\
-div \{\
-  width: 500px;\
-  height: 500px;\
-  margin: 0 auto 20px;\
-  text-align: center;\
- background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);\
-\}\
-\
-h3 \{\
-  margin: 0;\
-  color: white;\
-  font-family: Inter, sans-serif;\
-  font-weight: normal;\
-  font-size: 16px;\
-  line-height: 18px;\
-  text-transform: uppercase;\
-\}\
+h1 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding-top: 45px;
+  color: grey;
+  font-family: William, serif;
+  font-weight: normal;
+  font-size: 31px;
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-top: 0;
+  color: grey;
+  font-family: Inter, sans-serif;
+  font-size: 22px;
+  font-style: italic;
+  text-transform: uppercase;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Inter, sans-serif;
+  text-align: center;
+}
+
+img {
+  width: 310px;
+  margin-bottom: 40px;
+}
+
+div {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto 20px;
+  text-align: center;
+ background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+h3 {
+  margin: 0;
+  color: white;
+  font-family: Inter, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 18px;
+  text-transform: uppercase;
 }
